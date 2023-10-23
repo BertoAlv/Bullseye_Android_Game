@@ -1,4 +1,4 @@
-# Bullseye Game Android
+# Bullseye Android Game
 
 Drag-and-click Android Game made in Kotlin.
 
